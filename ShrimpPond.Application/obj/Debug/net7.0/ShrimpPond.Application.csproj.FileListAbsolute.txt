@@ -1,0 +1,15 @@
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\bin\Debug\net7.0\ShrimpPond.Application.deps.json
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\bin\Debug\net7.0\ShrimpPond.Application.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\bin\Debug\net7.0\ShrimpPond.Application.pdb
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.AssemblyInfoInputs.cache
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.AssemblyInfo.cs
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.csproj.CoreCompileInputs.cache
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\refint\ShrimpPond.Application.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.pdb
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ref\ShrimpPond.Application.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPond.Application.csproj.AssemblyReference.cache
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\bin\Debug\net7.0\ShrimpPond.Domain.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\bin\Debug\net7.0\ShrimpPond.Domain.pdb
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Application\obj\Debug\net7.0\ShrimpPo.C772EBD5.Up2Date

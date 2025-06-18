@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ShrimpPond.API.Controllers.AlarmController",
+    "Method": "GetFarm",
+    "RelativePath": "api/Alarm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alarmid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8PF1CB+JDE=",
+  "success": true,
+  "projectFilePath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\ShrimpPond.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tien Dat\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\Tien Dat\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Tien Dat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Tien Dat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tien Dat\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

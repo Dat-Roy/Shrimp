@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\features\\alarm\\queries\\getfarmhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\features\\alarm\\queries\\getfarmhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\features\\alarm\\queries\\getfarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\features\\alarm\\queries\\getfarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.api\\controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|solutionrelative:shrimppond.api\\controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|solutionrelative:shrimppond.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\dtos\\farmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\dtos\\farmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\dtos\\alarmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\dtos\\alarmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\repository\\abstract\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\repository\\abstract\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\repository\\abstract\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\repository\\abstract\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\interface\\generic\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\interface\\generic\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\repository\\alarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\repository\\alarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\repository\\farmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\repository\\farmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860F0B46-A300-4558-A624-7E0A6945BFC2}|ShrimpPond.Domain\\ShrimpPond.Domain.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.domain\\farm\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860F0B46-A300-4558-A624-7E0A6945BFC2}|ShrimpPond.Domain\\ShrimpPond.Domain.csproj|solutionrelative:shrimppond.domain\\farm\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\interface\\generic\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\interface\\generic\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\interface\\ifarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\interface\\ifarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\interface\\ialarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\interface\\ialarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\profiles\\alarmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\profiles\\alarmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|solutionrelative:shrimppond.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860F0B46-A300-4558-A624-7E0A6945BFC2}|ShrimpPond.Domain\\ShrimpPond.Domain.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.domain\\alarm\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860F0B46-A300-4558-A624-7E0A6945BFC2}|ShrimpPond.Domain\\ShrimpPond.Domain.csproj|solutionrelative:shrimppond.domain\\alarm\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.application\\profiles\\farmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F0A2D4-2D1A-4A2C-A972-201460A5E1B7}|ShrimpPond.Application\\ShrimpPond.Application.csproj|solutionrelative:shrimppond.application\\profiles\\farmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\databasecontext\\shrimpponddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\databasecontext\\shrimpponddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\shrimppond.persistant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\shrimppond.persistant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.api\\shrimppond.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C985844-574E-4F71-9467-0A7C8951A004}|ShrimpPond.API\\ShrimpPond.API.csproj|solutionrelative:shrimppond.api\\shrimppond.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\migrations\\20250606084352_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\migrations\\20250606084352_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|e:\\c_sharp\\project\\shrimppond\\shrimppond.api\\shrimppond.persistant\\migrations\\20250606084119_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FAB0C4-5D22-4B21-9145-6F69F597E22E}|ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj|solutionrelative:shrimppond.persistant\\migrations\\20250606084119_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetFarm.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarm.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarm.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarm.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:20:57.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetFarmHandler.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarmHandler.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarmHandler.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarmHandler.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Features\\Alarm\\Queries\\GetFarmHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:42:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FarmRepository.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\FarmRepository.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\Repository\\FarmRepository.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\FarmRepository.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\Repository\\FarmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:47:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\Generic\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Interface\\Generic\\IRepositoryBase.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\Generic\\IRepositoryBase.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Interface\\Generic\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:18:12.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FarmDTO.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\DTOs\\FarmDTO.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\DTOs\\FarmDTO.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\DTOs\\FarmDTO.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\DTOs\\FarmDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:52:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlarmController.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\Controllers\\AlarmController.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.API\\Controllers\\AlarmController.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\Controllers\\AlarmController.cs",
+              "RelativeToolTip": "ShrimpPond.API\\Controllers\\AlarmController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:52:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\Program.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.API\\Program.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\Program.cs",
+              "RelativeToolTip": "ShrimpPond.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:35:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlarmDTO.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\DTOs\\AlarmDTO.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\DTOs\\AlarmDTO.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\DTOs\\AlarmDTO.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\DTOs\\AlarmDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:51:36.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlarmRepository.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\AlarmRepository.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\Repository\\AlarmRepository.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\AlarmRepository.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\Repository\\AlarmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:45:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\Abstract\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\Repository\\Abstract\\UnitOfWork.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\Abstract\\UnitOfWork.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\Repository\\Abstract\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:29:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\Abstract\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\Repository\\Abstract\\RepositoryBase.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Repository\\Abstract\\RepositoryBase.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\Repository\\Abstract\\RepositoryBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:14:07.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Farm.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\Farm\\Farm.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Domain\\Farm\\Farm.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\Farm\\Farm.cs",
+              "RelativeToolTip": "ShrimpPond.Domain\\Farm\\Farm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:01:32.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\Generic\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Interface\\Generic\\IUnitOfWork.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\Generic\\IUnitOfWork.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Interface\\Generic\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:23:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFarmRepository.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\IFarmRepository.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Interface\\IFarmRepository.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\IFarmRepository.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Interface\\IFarmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:28:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAlarmRepository.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\IAlarmRepository.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Interface\\IAlarmRepository.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Interface\\IAlarmRepository.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Interface\\IAlarmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:26:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlarmProfile.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Profiles\\AlarmProfile.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Profiles\\AlarmProfile.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Profiles\\AlarmProfile.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Profiles\\AlarmProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:53:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ShrimpPond.API\\appsettings.json",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\appsettings.json",
+              "RelativeToolTip": "ShrimpPond.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T03:41:13.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\Alarm\\Alarm.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Domain\\Alarm\\Alarm.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\Alarm\\Alarm.cs",
+              "RelativeToolTip": "ShrimpPond.Domain\\Alarm\\Alarm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:43:30.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FarmProfile.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Profiles\\FarmProfile.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Application\\Profiles\\FarmProfile.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\Profiles\\FarmProfile.cs",
+              "RelativeToolTip": "ShrimpPond.Application\\Profiles\\FarmProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:56:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250606084352_update.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Migrations\\20250606084352_update.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\Migrations\\20250606084352_update.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Migrations\\20250606084352_update.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\Migrations\\20250606084352_update.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:30:34.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250606084119_Init.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Migrations\\20250606084119_Init.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\Migrations\\20250606084119_Init.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\Migrations\\20250606084119_Init.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\Migrations\\20250606084119_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:30:34.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShrimpPondDbContext.cs",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\DatabaseContext\\ShrimpPondDbContext.cs",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\DatabaseContext\\ShrimpPondDbContext.cs",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\DatabaseContext\\ShrimpPondDbContext.cs",
+              "RelativeToolTip": "ShrimpPond.Persistant\\DatabaseContext\\ShrimpPondDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA+wBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:36:27.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShrimpPond.Persistant.csproj",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj",
+              "RelativeDocumentMoniker": "ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj",
+              "RelativeToolTip": "ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T08:12:21.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShrimpPond.API.csproj",
+              "DocumentMoniker": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\ShrimpPond.API.csproj",
+              "RelativeDocumentMoniker": "ShrimpPond.API\\ShrimpPond.API.csproj",
+              "ToolTip": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.API\\ShrimpPond.API.csproj",
+              "RelativeToolTip": "ShrimpPond.API\\ShrimpPond.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T07:12:13.607Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

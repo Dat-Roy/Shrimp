@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj": {}
+  },
+  "projects": {
+    "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\ShrimpPond.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\ShrimpPond.Application.csproj",
+        "projectName": "ShrimpPond.Application",
+        "projectPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\ShrimpPond.Application.csproj",
+        "packagesPath": "C:\\Users\\Tien Dat\\.nuget\\packages\\",
+        "outputPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tien Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj": {
+                "projectPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj",
+        "projectName": "ShrimpPond.Domain",
+        "projectPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tien Dat\\.nuget\\packages\\",
+        "outputPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tien Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj",
+        "projectName": "ShrimpPond.Persistant",
+        "projectPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\ShrimpPond.Persistant.csproj",
+        "packagesPath": "C:\\Users\\Tien Dat\\.nuget\\packages\\",
+        "outputPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Persistant\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tien Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\ShrimpPond.Application.csproj": {
+                "projectPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Application\\ShrimpPond.Application.csproj"
+              },
+              "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj": {
+                "projectPath": "E:\\C_sharp\\Project\\ShrimpPond\\ShrimpPond.API\\ShrimpPond.Domain\\ShrimpPond.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

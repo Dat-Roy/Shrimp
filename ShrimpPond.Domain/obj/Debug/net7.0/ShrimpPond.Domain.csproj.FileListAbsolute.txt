@@ -1,0 +1,11 @@
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\bin\Debug\net7.0\ShrimpPond.Domain.deps.json
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\bin\Debug\net7.0\ShrimpPond.Domain.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\bin\Debug\net7.0\ShrimpPond.Domain.pdb
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ShrimpPond.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ShrimpPond.Domain.AssemblyInfoInputs.cache
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ShrimpPond.Domain.AssemblyInfo.cs
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ShrimpPond.Domain.csproj.CoreCompileInputs.cache
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ShrimpPond.Domain.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\refint\ShrimpPond.Domain.dll
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ShrimpPond.Domain.pdb
+E:\C_sharp\Project\ShrimpPond\ShrimpPond.API\ShrimpPond.Domain\obj\Debug\net7.0\ref\ShrimpPond.Domain.dll
